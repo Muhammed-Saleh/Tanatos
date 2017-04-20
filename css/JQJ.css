@@ -1,0 +1,248 @@
+
+
+body
+{
+    height: 4000px;
+   
+}
+
+
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover
+{
+    
+    color: #00aeef;
+    text-decoration: none;
+}
+
+
+#ser
+{
+    font-size: 23px;
+    
+    font-weight: 200;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#h55
+{
+    position: relative;
+    top: 2px;
+    left: 32px;
+
+}
+
+#h33
+{
+    position: relative;
+    top: 3px;
+    left: -46px;
+
+}
+
+#fon 
+{
+    
+    font-size: 22px;
+    position: absolute;
+    top: 10px;
+    left: -11px;
+}
+
+#fist_gly
+{
+    
+    position: relative;
+    top: 6px;
+    left: -5px;
+    font-size: 22px;
+    display: inline;
+    padding-left: 3px;
+    
+}
+
+#h44
+{
+    
+    position: relative;
+    top: 3px;
+    left: 35px;
+    display: inline;
+    font-size: 19px;
+
+}
+
+#na
+{
+    width: 100%;
+    height: 60px;
+    background-color: #0071c5;
+    position: fixed;
+    
+}
+
+h4
+{
+    display: inline;
+    padding: 10px;
+}
+
+#il
+{
+    position: relative;
+    top: -30px;
+    right: -768px;
+}
+
+#in
+{
+    width: 300px;
+    padding: 5px;
+    height: 30px;
+}
+
+#inl
+{
+    width: 55px;
+    height: 55px;
+    position: relative;
+    left: 100px;
+    top: 3px;
+}
+
+.o
+{
+    background-color: aqua;
+    color: fuchsia;
+}
+
+.oo
+{
+    background-color: blue;
+    color: red;
+}
+
+.ooo
+{
+    background-color: black;
+    color: white;
+}
+
+.oa
+{
+    background-color: olivedrab;
+    color: fuchsia;
+}
+
+.oaa
+{
+   font-size: 22px;
+    
+}
+
+.oaaa
+{
+font-weight: bold;
+}
+
+.carousel-indicators
+{
+    margin: 10px;
+    padding-left: 50px;
+    
+    
+}
+
+ ul li
+{
+    
+    transform: rotate(90deg);
+   
+
+
+}
+
+ ul 
+{
+     position: fixed;
+    top: 200px;
+    left: 5px;
+
+    
+}
+
+.oo
+{
+    background-color: transparent;
+    width: 20px;
+    height: 20px;        
+    margin: 5px;
+    border: 2px solid #a7b3b9;
+    border-radius: 50%;
+    list-style: none;
+
+}
+
+img:active
+{
+    background-color: #a7b3b9;
+}
+
+.photos  
+{
+    width: 1020px;
+    height: 500px;
+}
+
+
+
+
+
+.b1
+{
+   background-color: #a7b3b9;
+}
+
+
+.b2
+
+{
+   background-color: #a7b3b9;
+}
+
+
+
+.b3
+
+{
+   background-color: #a7b3b9;
+}
+
+
+
+.b4
+
+{
+   background-color: #a7b3b9;
+}
+
+
+.b5
+
+{
+   background-color: #a7b3b9;
+}
+
+
+.b6
+
+{
+   background-color: #a7b3b9;
+}
